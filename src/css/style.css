@@ -1,0 +1,42 @@
+#app {
+  text-align: center;
+  font-family: Ubuntu;
+  margin-bottom: 80px; }
+
+.container {
+  width: 55%; }
+
+.footer {
+  background-color: #02000d; }
+
+.description {
+  margin-top: 20px; }
+
+img {
+  width: 100%; }
+
+.lessons {
+  font-family: "Ubuntu Mono", sans-serif;
+  font-size: 20px;
+  margin-top: 20px; }
+  .lessons .lesson-list {
+    margin: 20px 0px; }
+  .lessons .lesson-name {
+    display: inline-block;
+    width: 70%;
+    text-align: left; }
+    .lessons .lesson-name :hover {
+      color: #f1bd0f;
+      background-color: #595959; }
+  .lessons .lesson-time {
+    display: inline-block;
+    float: right;
+    margin-right: 20px; }
+  .lessons .lesson-id {
+    display: inline-block;
+    float: left;
+    margin-left: 20px; }
+  .lessons hr {
+    margin: 0; }
+
+/*# sourceMappingURL=style.css.map */
